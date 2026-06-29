@@ -40,11 +40,13 @@ REJECT_URLS = [
     "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/reject.json",
     "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/reject-drop.json",
     "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/reject-no-drop.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/ip/reject.json",
 ]
 
 IP_URLS = [
-    "https://raw.githubusercontent.com/jackszb/sukka-surge/main/ip/china_ip.json",
-    "https://raw.githubusercontent.com/jackszb/sukka-surge/main/ip/china_ip_ipv6.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/ip/china_ip.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/ip/china_ip_ipv6.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/ip/lan.json",
 ]
 
 # -----------------------------
