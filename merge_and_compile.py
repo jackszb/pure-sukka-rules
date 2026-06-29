@@ -17,6 +17,7 @@ DIRECT_URLS = [
     "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/direct.json",
     "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/lan.json",
     "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/neteasemusic.json",
+    "https://raw.githubusercontent.com/jackszb/pure-sukka-rules/main/direct_custom_rules.json",
 ]
 
 PROXY_URLS = [
