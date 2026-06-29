@@ -19,10 +19,18 @@ DIRECT_URLS = [
 ]
 
 PROXY_URLS = [
-    "https://raw.githubusercontent.com/jackszb/sukka-surge/main/domainset/cdn.json",
-    "https://raw.githubusercontent.com/jackszb/sukka-surge/main/non_ip/apple_intelligence.json",
-    "https://raw.githubusercontent.com/jackszb/sukka-surge/main/non_ip/apple_services.json",
-    "https://raw.githubusercontent.com/jackszb/sukka-surge/main/non_ip/cdn.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/domainset/apple_cdn.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/domainset/cdn.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/domainset/game-download.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/domainset/speedtest.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/domainset/icloud_private_relay.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/ai.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/apple_intelligence.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/apple_services.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/cdn.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/global.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/stream.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/telegram.json",
 ]
 
 REJECT_URLS = [
