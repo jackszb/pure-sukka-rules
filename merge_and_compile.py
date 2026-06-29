@@ -41,6 +41,7 @@ REJECT_URLS = [
     "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/reject-drop.json",
     "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/reject-no-drop.json",
     "https://raw.githubusercontent.com/jackszb/sukka-json/main/ip/reject.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/sogouinput.json",
 ]
 
 IP_URLS = [
