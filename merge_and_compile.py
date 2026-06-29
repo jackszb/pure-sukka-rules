@@ -9,8 +9,13 @@ import ipaddress
 # -----------------------------
 
 DIRECT_URLS = [
-    "https://raw.githubusercontent.com/jackszb/sukka-surge/main/non_ip/apple_cn.json",
-    "https://raw.githubusercontent.com/jackszb/sukka-surge/main/non_ip/apple_cdn.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/apple_cn.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/apple_cdn.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/microsoft_cdn.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/microsoft.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/domestic.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/direct.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/lan.json",
 ]
 
 PROXY_URLS = [
